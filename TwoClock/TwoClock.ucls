@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="homework2.TwoClock.AppleClockPane" project="2019OOPKIMKIJUNG" 
+    file="/2019OOPKIMKIJUNG/src/homework2/TwoClock/AppleClockPane.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="178" width="186" x="464" y="488"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="homework2.TwoClock.TwoClockMain" project="2019OOPKIMKIJUNG" 
+    file="/2019OOPKIMKIJUNG/src/homework2/TwoClock/TwoClockMain.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="131" x="293" y="72"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="homework2.TwoClock.ClockPane" project="2019OOPKIMKIJUNG" 
+    file="/2019OOPKIMKIJUNG/src/homework2/TwoClock/ClockPane.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="376" width="204" x="464" y="72"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="homework2.TwoClock.TwoClockController" project="2019OOPKIMKIJUNG" 
+    file="/2019OOPKIMKIJUNG/src/homework2/TwoClock/TwoClockController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="178" width="165" x="708" y="72"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="5">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
