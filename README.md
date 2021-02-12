@@ -4,7 +4,7 @@ Simple Java puzzle program made using JavaFX
 # 개발환경
 - JavaFX, Eclipse
 
-# 사용화면
+# 실행화면
 - Start버튼을 누르기 전까지 다른 버튼들은 동작하지 않는다.
 
 ![image](https://user-images.githubusercontent.com/55977034/107759324-7cf08d80-6d6b-11eb-9ea5-45c4d620e22f.png)
