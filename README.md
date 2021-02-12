@@ -1,5 +1,5 @@
 # java-multicircularbuffer
-GUI로 출력한 다중 원형 버퍼 실행 모습
+GUI로 그래픽화한 다중 원형 버퍼 작동
 
 # 개발환경
 - Java, JavaFX, Eclipse
